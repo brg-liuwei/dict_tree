@@ -24,3 +24,6 @@
 
     go test github.com/brg-liuwei/dict_tree -bench="."
 
+### 使用示例
+
+see [dict_tree_main](https://github.com/brg-liuwei/dict_tree_main) for detail
