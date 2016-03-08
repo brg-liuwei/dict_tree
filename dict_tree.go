@@ -93,5 +93,6 @@ func (root *DictTree) Display(sep string) {
 	for r, node := range root.branch {
 		fmt.Print(string(r), sep)
 		node.display(1, sep)
+		fmt.Println()
 	}
 }

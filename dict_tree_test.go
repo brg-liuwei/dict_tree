@@ -3,7 +3,7 @@ package dict_tree_test
 import (
 	"testing"
 
-	"dict_tree"
+	"github.com/brg-liuwei/dict_tree"
 )
 
 func ExampleDictTree() {
